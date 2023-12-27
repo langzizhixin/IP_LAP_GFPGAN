@@ -5,7 +5,7 @@ This is the Colab run script for IP-LAP.
 
 [![Open In Colab][colab-badge]][colab-notebook]
 
-[colab-notebook]: <https://colab.research.google.com/github/langzizhixin/SadTalker_Video_Colab/blob/main/SadTalker_Video_Colab.ipynb>
+[colab-notebook]: <https://colab.research.google.com/github/langzizhixin/IP_LAP_GFPGAN/blob/main/IP_LAP_GFPGAN.ipynb>
 [colab-badge]: <https://colab.research.google.com/assets/colab-badge.svg>
 
 ***
@@ -14,14 +14,16 @@ This is the Colab run script for IP-LAP.
 
 [![Open In Colab][colab-badge]][colab-notebook]
 
-[colab-notebook]: <https://colab.research.google.com/github/langzizhixin/SadTalker_Video_Colab/blob/main/SadTalker_Video_Colab.ipynb>
+[colab-notebook]: <https://colab.research.google.com/github/langzizhixin/IP_LAP_GFPGAN/blob/main/IP_LAP_Train.ipynb>
 [colab-badge]: <https://colab.research.google.com/assets/colab-badge.svg>
 
 ***
 
 ## Useful links:
-https://github.com/Zz-ww/SadTalker-Video-Lip-Sync
-https://github.com/OpenTalker/SadTalker
+https://github.com/Weizhi-Zhong/IP_LAP
+https://github.com/Rudrabha/Wav2Lip
+https://github.com/primepake/wav2lip_288x288
+https://github.com/nghiakvnvsd/wav2lip384
 https://github.com/vinthony/video-retalking
 ### 
 ### 
