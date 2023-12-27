@@ -10,7 +10,7 @@ This is the Colab run script for IP-LAP.
 
 ***
 ## Train 
-### Please click on the Colab link below to inference.
+### Please click on the Colab link below to Train.
 
 [![Open In Colab][colab-badge]][colab-notebook]
 
